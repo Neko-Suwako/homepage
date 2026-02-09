@@ -17,10 +17,10 @@ SortBy              = "default"
     published   = ":date_full"
     lastUpdated = ":date_full"
 
-#[sidebar]
+[sidebar]
 #    emoji    = "🍥"
-#    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-#    avatar   = "img/avatar.png"
+    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    avatar   = "img/avatar.png"
 
 [article]
     headingAnchor = false

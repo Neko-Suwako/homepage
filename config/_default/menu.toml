@@ -1,11 +1,11 @@
 # 配置主菜单和社交菜单
-[[main]]
-identifier = "home"
-name = "首页"
-url = "/"
-[main.params]
-icon = "home"
-newtab = true
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
 
 [[social]]
     identifier = "github"
