@@ -1,3 +1,3 @@
-# Permalinks format of each content section
+# 每个内容部分的永久链接格式
 post = "/p/:slug/"
 page = "/:slug/"

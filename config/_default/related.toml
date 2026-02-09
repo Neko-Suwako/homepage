@@ -1,4 +1,4 @@
-# Related contents configuration
+# 相关内容配置
 includeNewer = true
 threshold    = 60
 toLower      = false
