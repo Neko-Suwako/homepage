@@ -1,0 +1,9 @@
+{{- $gist := .Get 0 -}}
+{{- $file := .Get 1 -}}
+{{- $id := cond (eq (len (split $gist "/")) 1) $gist (index (split $gist "/") 1) -}}
+{{- $user := cond (eq (len (split $gist "/")) 1) "" (index (split $gist "/") 0) -}}
+{{- if $file -}}
+<script src="https://gist.github.com/{{ $user }}/{{ $id }}.js?file={{ $file }}"></script>
+{{- else -}}
+<script src="https://gist.github.com/{{ $user }}/{{ $id }}.js"></script>
+{{- end -}}

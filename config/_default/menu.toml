@@ -11,7 +11,7 @@ identifier = "archives"
 name = "归档"
 url = "/page/archives/"
 [main.params]
-icon = "archive"
+icon = "archives"
 
 [[main]]
 identifier = "links"
