@@ -5,20 +5,7 @@ name = "首页"
 url = "/"
 [main.params]
 icon = "home"
-
-[[main]]
-identifier = "archives"
-name = "归档"
-url = "/page/archives/"
-[main.params]
-icon = "archives"
-
-[[main]]
-identifier = "links"
-name = "链接"
-url = "/page/links/"
-[main.params]
-icon = "link"
+newtab = true
 
 [[social]]
     identifier = "github"
