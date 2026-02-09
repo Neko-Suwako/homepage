@@ -1,4 +1,4 @@
-# 配置主菜单和社交菜单
+# Configure main menu and social menu
 #[[main]]
 #identifier = "home"
 #name = "Home"
