@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
 #    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "我是旧时代的残党，新时代没有载我的船……才怪，诶嘿！"
     avatar   = "img/avatar.png"
 
 [article]
@@ -28,7 +28,7 @@ SortBy              = "default"
     readingTime   = true
 
     [article.license]
-        enabled = true
+        enabled = false
         default = "Licensed under CC BY-NC-SA 4.0"
 
 [widgets]

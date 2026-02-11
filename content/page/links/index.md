@@ -2,9 +2,13 @@
 title: 链接
 links:
   - title: GitHub
-    description: GitHub是世界上最大的软件开发平台。
+    description: 因为一些原因，本人的GitHub个人仓库暂时不公开了。
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: 哔哩哔哩
+    description: 个人B站账号，不发公事相关内容。
+    website: https://space.bilibili.com/8412735
+    image: bilibili.png
 menu:
     main: 
         weight: 4
@@ -13,21 +17,3 @@ menu:
 
 comments: false
 ---
-
-要使用此功能，请在frontmatter中添加`links`部分。
-
-本页面的frontmatter：
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub是世界上最大的软件开发平台。
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript是JavaScript的类型化超集，可编译为纯JavaScript。
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image`字段接受本地和外部图像。
