@@ -12,7 +12,7 @@ defaultContentLanguage = "zh-cn"
 hasCJKLanguage = true
 
 # 使用前请修改为你的Disqus shortname
-disqusShortname = "neko-suwako"
+disqusShortname = "hugo-theme-stack"
 
 [pagination]
     pagerSize = 5
