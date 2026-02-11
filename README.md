@@ -12,7 +12,7 @@
 
 ## 开始使用
 
-1. 点击 *Use this template*，并在 GitHub 上创建名为 `<username>.github.io` 的仓库。（您也可以使用不同的仓库名称，但生成的网站将在 `https://<username>.github.io/<repository-name>` 上可用。）
+1. 点击 *Use this template*，并在 GitHub 上创建名为 `<username>.github.io` 的仓库。（您也可以使用不同的仓库名称，但生成的网站将在 `https://<username>.github.io/<repository-name>` 上可用。） 
 ![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
 
 2. 仓库创建后，创建与其关联的 GitHub codespace。
