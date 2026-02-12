@@ -7,12 +7,12 @@
 它包含基本的主题结构和配置。已设置 GitHub action 自动将主题部署到公共 GitHub 页面。此外，还有一个 cron 作业每天自动更新主题。
 
 ## 视频教程
-
+ 
 如果您在设置过程中遇到困难，这里有一个视频教程，介绍如何使用此模板设置新的 Hugo 站点并将其部署到 GitHub Pages：https://www.youtube.com/watch?v=8qDdQQ6Ifxo
 
 ## 开始使用
 
-1. 点击 *Use this template*，并在 GitHub 上创建名为 `<username>.github.io` 的仓库。（您也可以使用不同的仓库名称，但生成的网站将在 `https://<username>.github.io/<repository-name>` 上可用。） 
+1. 点击 *Use this template*，并在 GitHub 上创建名为 `<username>.github.io` 的仓库。（您也可以使用不同的仓库名称，但生成的网站将在 `https://<username>.github.io/<repository-name>` 上可用） 
 ![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
 
 2. 仓库创建后，创建与其关联的 GitHub codespace。
