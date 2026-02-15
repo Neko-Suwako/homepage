@@ -1,8 +1,7 @@
 ---
 title: 部分个人经历
 description: 部分个人经历归档，可能更新不及时或者不全
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2022-03-25 00:00:00+0000
 image: cover.jpg
 categories:
     - 足迹
