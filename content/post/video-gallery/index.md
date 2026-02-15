@@ -9,7 +9,7 @@ image: cover.jpg
 
 ## 东方同人音乐嘉年华
 
-{{< bilibili "BV1d4411N7zD" >}}
+{{< bilibili "BV1Wx411F7Hs" >}}
 
 
 -----
