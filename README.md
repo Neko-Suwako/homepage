@@ -8,7 +8,7 @@
 
 ## 视频教程
  
-如果您在设置过程中遇到困难，这里有一个视频教程，介绍如何使用此模板设置新的 Hugo 站点并将其部署到 GitHub Pages：https://www.youtube.com/watch?v=8qDdQQ6Ifxo
+如果您在设置过程中遇到困难，这里有一个视频教程， 介绍如何使用此模板设置新的 Hugo 站点并将其部署到 GitHub Pages：https://www.youtube.com/watch?v=8qDdQQ6Ifxo 
 
 ## 开始使用
 
