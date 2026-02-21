@@ -1,7 +1,7 @@
 # 部署前请修改baseurl
 baseurl      = "https://neko-suwako.github.io/homepage/"
 languageCode = "zh-cn"
-title        = "猫窝"
+title        = "Columba_咕咕咕"
 
 # 主题国际化支持
 # 查看所有可用值：https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n

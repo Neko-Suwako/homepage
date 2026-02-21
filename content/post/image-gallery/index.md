@@ -13,3 +13,10 @@ image: 2.jpg
 ![桜華の願い](4.jpg)
 
 > Picture by [防人](https://www.pixiv.net/users/211515/)  on [Pixiv](https://www.pixiv.net/)
+
+##鸟！
+
+![鸟！](bird1.jpg)
+![尼康还是邪门](bird2.jpg)
+
+> Photo shot on Nikon by myself 
